@@ -13,16 +13,20 @@
 ![alt text](images/content.png)
 
 ---
-## 🎮 주요 기능
+## 🎮 주요 수행
+- 1. AI HUB [SNS 데이터 고도화] 데이터 다운로드 (부가적으로 Huggingface 데이터 다운로드 방법 수행)
+
 
 
 ---
 ## 🛠 기술 스택
-
+python, Huggingface, openai, google-generativeai, anthropic, gradio ... 
 
 ---
 ## 💻 설치 및 실행 방법
-
+```
+pip install -r requirements.txt
+```
 
 ---
 ## 결과
