@@ -10,9 +10,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-ANTHROPIC_API_KEY = os.getenv['ANTHROPIC_API_KEY']
-GOOGLE_API_KEY = os.getenv['GOOGLE_API_KEY']
-OPENAI_API_KEY = os.getenv['OPENAI_API_KEY']
+ANTHROPIC_API_KEY = os.getenv('ANTHROPIC_API_KEY')
+GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 MAX_LEN = 3000
 
 # 3000자가 넘으면 가장 최근 3000자만 반환하는 함수
