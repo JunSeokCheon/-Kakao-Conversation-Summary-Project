@@ -21,6 +21,7 @@
 - 5. baseline 작성 및 비용 측면에서 효율적인 모델 테스트
 - 6. 모델 고도화(few-shot prompting, chain-of-thought)
 - 7. guardrails 설정
+- 8. gradio demo 생성
 
 ---
 ## 🛠 기술 스택
@@ -34,9 +35,12 @@ pip install -r requirements.txt
 
 ---
 ## 결과
-
+![alt text](images/result1.png)
+![alt text](images/result2.png)
 
 ---
 ## 🔍 개선 사항
+- one -> two -> three shot prompting 시도
+- CoT 변경 시도
 
 ---
