@@ -20,6 +20,7 @@
 - 4. utils 함수 구현(요약 함수, 훈련 데이터 로드 함수)
 - 5. baseline 작성 및 비용 측면에서 효율적인 모델 테스트
 - 6. 모델 고도화(few-shot prompting, chain-of-thought)
+- 7. guardrails 설정
 
 ---
 ## 🛠 기술 스택
